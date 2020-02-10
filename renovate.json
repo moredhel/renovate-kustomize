@@ -1,5 +1,4 @@
 {
-  "enabled": true,
   "kustomize": {
     "enabled": true
   }
