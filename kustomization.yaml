@@ -3,7 +3,7 @@ kind: Kustomization
 
 bases:
 - service-1
-- git@github.com:kubernetes-sigs/kustomize.git//examples/helloWorld?ref=v2.0.0
+- git@github.com:kubernetes-sigs/kustomize.git//examples/helloWorld?ref=v3.3.1
 - git@github.com:moredhel/remote-kustomize.git?ref=v0.0.1
 - https://moredhel/remote-kustomize.git?ref=v0.0.1
 
