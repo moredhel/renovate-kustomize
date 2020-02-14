@@ -18,4 +18,4 @@ images:
 - name: moredhel/renovate-test-3
   newTag: v0.0.1
 - name: moredhel/renovate-test-2
-  newTag: v0.0.1
+  newTag: v1.0.0
